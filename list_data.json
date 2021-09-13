@@ -1,0 +1,45 @@
+{
+	"Projects & Experience": [{
+		"Title": "Female Experiences of Online Abuse, Sexism and Trolling",
+		"Overview": "Independent qualitative research study focussing on self-identifying female subjects who have both experienced and witnessed online abuse on social media platforms.",
+		"Location": "School of Information, University of California, Berkeley",
+		"Year": "2021"
+	},
+	{
+		"Title": "Building a Graph-Based Text Recommender System in Python",
+		"Overview": "Python project comprising a basic graph structure to traverse nodes and recommend action according to user input.",
+		"Location": "Department of Electrical Engineering and Computer Science, University of California, Berkeley",
+		"Year": "2021"
+	},
+	{
+		"Title": "The Philosophy of Information and an Exploration of Search Tactics",
+		"Overview": "Written reflection defining the terms 'data' and 'information' in both philosophical and computing terms, before exploring various mechanisms in which humans & computers organise, store and navigate information.",
+		"Venue": "School of Information, University of California, Berkeley",
+		"Year": "2021"
+	},
+	{
+		"Title": "Blockchain Data Extraction for Crypocurrency Market Liquidity Analysis",
+		"Overview": "Working with both on & off-chain data to analyse depth of liquidity in various trading markets, and inform algorithmic trading strategies.",
+		"Venue": "London, United Kingdom",
+		"Year": "2019"
+	},
+	{
+		"Title": "Machine Learning Approaches to Formula 1 Driver Development",
+		"Overview": "Using unsupervised learning methods to identify drivers from telemetry data alone and inform the development learning cycle.",
+		"Venue": "McLaren Technology Group, Surrey & London, United Kingdom",
+		"Year": "2018"
+	},
+	{
+		"Title": "Exploring the Uses of Firm-Created Big Data and Analytics in Enhancing the Measurement of Manufacturing Performance in the U.K.",
+		"Overview": "MEng thesis exploring mechanisms for collecting, aggregating and utilising private & public manufacturing sector data sources in order to evaluate UK economic productivty.",
+		"Venue": "Institute for Manufacturing, University of Cambridge, United Kingdom",
+		"Year": "2016"
+	},
+	{
+		"Title": "Optimising First Time Through (FTT) Production Rate in Automotive Manufacturing Through Error Classification",
+		"Overview": "Categorisation of Root Cause Failure data to identify common errors and suggest appropriate pre-emptive intervention.",
+		"Venue": "Leading Automotive Manufacturer & Institute for Manufacturing, University of Cambridge, United Kingdom",
+		"Year": "2016"
+	}]
+	
+}
